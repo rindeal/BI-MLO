@@ -1,0 +1,2 @@
+# Predikátová logika
+

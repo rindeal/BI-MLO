@@ -1,0 +1,8 @@
+{
+    "title": "BI-MLO Quick Reference",
+    "language": "cs",
+    "plugins": [
+        "katex",
+        "anchors"
+    ]
+}
